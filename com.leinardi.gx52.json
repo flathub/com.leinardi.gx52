@@ -2,7 +2,7 @@
   "app-id": "com.leinardi.gx52",
   "command": "gx52",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "46",
+  "runtime-version": "49",
   "sdk": "org.gnome.Sdk",
   "finish-args": [
     "--share=ipc",
