@@ -27,12 +27,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/leinardi/gx52.git",
-                    "tag": "v0.99.0",
-                    "commit": "a818d135b5ddfb7f17df6e8d2fd6c6e879748f9a",
-                    "x-checker-data": {
-                        "type": "git",
-                        "tag-pattern": "^v([0-9]+\\.[0-9]+\\.[0-9]+)$"
-                    }
+                    "tag": "v1.0.0",
+                    "commit": "db137b34b281da6b0cfc312ccea9dedfd135645b"
                 },
                 "cargo-sources.json",
                 {
